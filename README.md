@@ -22,7 +22,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-Get%20In%20Contact-blue)](your-linkedin-url)
+- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-Get%20In%20Contact-blue)](https://joeeey.com/contact)
 
 ### :hammer_and_wrench: Languages and Tools :
 <!--
