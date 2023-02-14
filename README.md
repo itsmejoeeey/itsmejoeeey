@@ -3,7 +3,8 @@
   <img src="https://i.imgur.com/JmWKFzo.png"/>
 </div>
 <div id="header" align="center">
-  <h3>Hi! I'm Joey</h3>
+  <h3>Hi! I'm Joey.</h3>
+  <h4>< Full-Stack & C++ Software Engineer ></h4>
 </div>
 <div id="badges" align="center">
   <a href="https://joeeey.com"><img src="https://img.shields.io/badge/website-black?logo=react&style=for-the-badge&logoColor=white" alt="Website Badge"/></a>
@@ -16,16 +17,31 @@
 
 <br />
 
+<details>
+  <summary><h4>:man_technologist: About Me</h4></summary>
 
-### :man_technologist: About Me :
-- :telescope: Working fulltime as a C++ Software Engineer.
+- :telescope: Working full-time as a C++ Software Engineer.
 
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-Get%20In%20Contact-blue)](https://joeeey.com/contact)
+- :heart: TODO
 
-### :hammer_and_wrench: Languages and Tools :
-<!--
+- :speech_balloon: [![Linkedin Badge](https://img.shields.io/badge/-Get%20In%20Contact-blue)](https://joeeey.com/contact)
+</details>
+  
+<details>
+  <summary><h4>:gear: Projects</h4></summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmejoeeey" alt="Joey's Github statistics" />
+  
+  <ul>
+    <li>Coming soon</li>
+  </ul>
+</details>
+  
+<details>
+  <summary><h4>:hammer_and_wrench: Languages and Tools</h4></summary>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -40,11 +56,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 -->
+</div>
+</details>
 
-_Coming Soon_
+<details>
+  <summary><h4>:writing_hand: Latest posts</h4></summary>
 
-### :writing_hand: Latest posts :
-
-_Coming Soon_
+  <ul>
+    <li>Coming soon</l1>
+  </ul>
+</details>
