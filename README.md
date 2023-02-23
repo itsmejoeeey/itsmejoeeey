@@ -93,8 +93,8 @@
 <details>
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
-  <ul>
-    <li>Coming soon</l1>
-  </ul>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </details>
 </details>
