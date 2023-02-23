@@ -7,8 +7,9 @@
   <h4>< Full Stack & C++ Software Engineer ></h4>
 </div>
 <div id="badges" align="center">
-  <a href="https://joeeey.com"><img src="https://img.shields.io/badge/website-black?logo=react&style=for-the-badge&logoColor=white" alt="Website Badge"/></a>
+  <!--<a href="https://joeeey.com"><img src="https://img.shields.io/badge/website-black?logo=react&style=for-the-badge&logoColor=white" alt="Website Badge"/></a>-->
   <a href="https://joeeey.com/blog"><img src="https://img.shields.io/badge/blog-black?logo=rss&style=for-the-badge&logoColor=white" alt="Blog Badge"/></a>
+  <a href="https://joeeey.com/contact"><img src="https://img.shields.io/badge/contact-black?logo=mail.ru&style=for-the-badge&logoColor=white" alt="Contact Badge"/></a>
 </div>
 
 <br/>
@@ -27,7 +28,6 @@
 
 - :heart: TODO
 
-- :speech_balloon: [![Linkedin Badge](https://img.shields.io/badge/-Get%20In%20Contact-blue)](https://joeeey.com/contact)
 </details>
 
 <!-- Inner 'Projects' section -->
