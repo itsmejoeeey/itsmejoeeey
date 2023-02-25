@@ -24,9 +24,9 @@
 <details>
   <summary><h4>:man_technologist: About Me</h4></summary>
 
-- :telescope: I'm currently working full-time as a C++ Software Engineer.
+- :telescope: I'm currently employed full-time as a C++ Software Engineer.
 
-- :heart: I'm currently working on a project built with Flask
+- :heart: In my freetime I'm building a project using Flask (coming soon).
 
 </details>
 
