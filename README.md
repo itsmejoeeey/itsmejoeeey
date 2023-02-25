@@ -94,6 +94,8 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosting Netlify CMS without Netlify](https://joeeey.com/blog/self-hosting-netlify-cms-without-netlify)
+- [Hello world!](https://joeeey.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
