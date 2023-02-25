@@ -26,7 +26,7 @@
 
 - :telescope: I'm currently employed full-time as a C++ Software Engineer.
 
-- :heart: In my freetime I'm building a project using Flask (coming soon).
+- :heart: In my free time I'm building a project using Flask (coming soon).
 
 </details>
 
