@@ -98,5 +98,7 @@
 - [Hello world!](https://joeeey.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
+[View more](https://joeeey.com/blog/)
+  
 </details>
 </details>
