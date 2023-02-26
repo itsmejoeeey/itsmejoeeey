@@ -45,7 +45,9 @@
 <!-- Inner 'Languages and Tools' section -->
 <details>
   <summary><h4>:hammer_and_wrench: Languages and Tools</h4></summary>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="36" height="36"/>
+  <a href="https://isocpp.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="36" height="36"/>
+  </a>
   
   <h5>Full Stack:</h5>
   <table>
@@ -56,35 +58,56 @@
     <tr>
       <td>Frameworks</td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="36" height="36"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="36" height="36"/>
+        <a href="https://www.gatsbyjs.com/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="36" height="36"/>
+        </a>
+        <a href="https://nextjs.org/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="36" height="36"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td>Core</td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="36" height="36"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="36" height="36"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="36" height="36"/>
+        <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="36" height="36"/>
+        </a>
+        <a href="https://nodejs.org/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="36" height="36"/>
+        </a>
+        <a href="https://reactjs.org/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="36" height="36"/>
+        </a>
+        <a href="https://www.python.org/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="36" height="36"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td>Cloud</td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="Amazon Web Services" width="36" height="36"/>
-        <img src="https://github.com/devicons/devicon/blob/develop/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="36" height="36"/>
+        <a href="https://aws.amazon.com/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="Amazon Web Services" width="36" height="36"/>
+        </a>
+        <a href="https://www.cloudflare.com/">
+          <img src="https://github.com/devicons/devicon/blob/develop/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="36" height="36"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td>DevOps</td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="36" height="36"/>
+        <a href="https://www.docker.com/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="36" height="36"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td>Misc</td>
       <td>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="36" height="36"/>
+        <a href="https://www.linuxfoundation.org/">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="36" height="36"/>
+        </a>
       </td>
     </tr>
   </table>
