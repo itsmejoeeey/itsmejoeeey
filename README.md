@@ -38,7 +38,7 @@
   
   <br>
 
-[See a list of my projects...](https://joeeey.com/projects/)
+[View a list of my projects...](https://joeeey.com/projects/)
 
 </details>
   
