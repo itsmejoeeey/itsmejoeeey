@@ -26,7 +26,7 @@
 
 - :telescope: I'm currently employed full-time as a C++ Software Engineer.
 
-- :heart: In my free time I'm building a project using Flask (coming soon).
+- :heart: In my free time I am building a project using Flask (coming soon).
 
 </details>
 
@@ -36,9 +36,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=itsmejoeeey" alt="Joey's Github statistics" />
   
-  <ul>
-    <li>Coming soon</li>
-  </ul>
+  <br>
+
+[See a list of my projects...](https://joeeey.com/projects/)
+
 </details>
   
 <!-- Inner 'Languages and Tools' section -->
@@ -98,7 +99,7 @@
 - [Hello world!](https://joeeey.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
-[View more](https://joeeey.com/blog/)
+[View more...](https://joeeey.com/blog/)
   
 </details>
 </details>
