@@ -118,6 +118,7 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [First steps to begin securing your Linux server](https://joeeey.com/blog/first-steps-securing-linux-servers)
 - [Self-hosting Netlify CMS without Netlify](https://joeeey.com/blog/self-hosting-netlify-cms-without-netlify)
 - [Hello world!](https://joeeey.com/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
