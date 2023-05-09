@@ -118,7 +118,7 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting SSO with Nginx &lpar;Part 2&rpar;: Reverse Proxy Auth with OAuth2 Proxy](https://joeeey.com/blog/selfhosting-sso-with-nginx-oauth2-proxy-part-2/)
+- [Self-hosting SSO with Nginx &lpar;Part 2&rpar;: OAuth2 Proxy](https://joeeey.com/blog/selfhosting-sso-with-nginx-oauth2-proxy-part-2/)
 - [Self-hosting SSO with Nginx &lpar;Part 1&rpar;: Keycloak](https://joeeey.com/blog/selfhosting-sso-with-nginx-keycloak-part-1/)
 - [First steps to begin securing your Linux server](https://joeeey.com/blog/first-steps-securing-linux-servers/)
 - [Self-hosting Netlify CMS without Netlify](https://joeeey.com/blog/self-hosting-netlify-cms-without-netlify/)
