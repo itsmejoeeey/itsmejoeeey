@@ -118,11 +118,11 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rootless Docker: Avoiding Common Caveats](https://joeeey.com/blog/rootless-docker-avoiding-common-caveats/)
+- [Reviving Android Auto for Phone Screens &lpar;Post-Google Shutdown&rpar;](https://joeeey.com/blog/reviving-android-auto-for-phone-screens/)
 - [Declutter your Gmail inbox with Python: A Step-by-Step Guide](https://joeeey.com/blog/declutter-gmail-inbox-with-python-guide/)
 - [Self-hosting SSO with Traefik &lpar;Part 2&rpar;: OAuth2 Proxy](https://joeeey.com/blog/selfhosting-sso-with-traefik-oauth2-proxy-part-2/)
 - [Self-hosting SSO with Traefik &lpar;Part 1&rpar;: Keycloak](https://joeeey.com/blog/selfhosting-sso-with-traefik-keycloak-part-1/)
-- [Self-hosting SSO &lpar;Part 3&rpar;: LDAP](https://joeeey.com/blog/selfhosting-sso-ldap-part-3/)
-- [Self-hosting SSO with Nginx &lpar;Part 2&rpar;: OAuth2 Proxy](https://joeeey.com/blog/selfhosting-sso-with-nginx-oauth2-proxy-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [View more...](https://joeeey.com/blog/)
