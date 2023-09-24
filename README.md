@@ -118,11 +118,11 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Docker Security Practices To Consider](https://joeeey.com/blog/securing-docker/)
 - [VirtualBox Raw Disk Access &amp; Booting from Real Partitions](https://joeeey.com/blog/virtualbox-raw-disk-access-booting/)
 - [Rootless Docker: Avoiding Common Caveats](https://joeeey.com/blog/rootless-docker-avoiding-common-caveats/)
 - [Reviving Android Auto for Phone Screens &lpar;Post-Google Shutdown&rpar;](https://joeeey.com/blog/reviving-android-auto-for-phone-screens/)
 - [Declutter your Gmail inbox with Python: A Step-by-Step Guide](https://joeeey.com/blog/declutter-gmail-inbox-with-python-guide/)
-- [Self-hosting SSO with Traefik &lpar;Part 2&rpar;: OAuth2 Proxy](https://joeeey.com/blog/selfhosting-sso-with-traefik-oauth2-proxy-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [View more...](https://joeeey.com/blog/)
