@@ -118,11 +118,11 @@
   <summary><h4>:writing_hand: Latest posts</h4></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to backup Android WiFi keys &lpar;without root&rpar;](https://joeeey.com/blog/backup-android-wifi-keys-without-root/)
 - [Essential Docker Security Practices To Consider](https://joeeey.com/blog/securing-docker/)
 - [VirtualBox Raw Disk Access &amp; Booting from Real Partitions](https://joeeey.com/blog/virtualbox-raw-disk-access-booting/)
 - [Rootless Docker: Avoiding Common Caveats](https://joeeey.com/blog/rootless-docker-avoiding-common-caveats/)
 - [Reviving Android Auto for Phone Screens &lpar;Post-Google Shutdown&rpar;](https://joeeey.com/blog/reviving-android-auto-for-phone-screens/)
-- [Declutter your Gmail inbox with Python: A Step-by-Step Guide](https://joeeey.com/blog/declutter-gmail-inbox-with-python-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 [View more...](https://joeeey.com/blog/)
